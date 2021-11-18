@@ -1,0 +1,41 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\bin\Debug\мой тест.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\bin\Debug\мой тест.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form2.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form3.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form4.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form5.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Form6.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой_тест.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой тест.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой тест.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Debug\мой тест.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\мой тест\мой тест\bin\Debug\мой тест.exe
+C:\Users\User\Desktop\мой тест\мой тест\bin\Debug\мой тест.pdb
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form1.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form2.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form3.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form4.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form5.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Form6.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой_тест.Properties.Resources.resources
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.GenerateResource.cache
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой тест.exe
+C:\Users\User\Desktop\мой тест\мой тест\obj\x86\Debug\мой тест.pdb
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form1.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form2.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form3.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form4.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form5.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Form6.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой_тест.Properties.Resources.resources
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.GenerateResource.cache
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой тест.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой тест.exe
+C:\Users\User\Desktop\наукова\мой тест\мой тест\obj\x86\Debug\мой тест.pdb
+C:\Users\User\Desktop\наукова\мой тест\мой тест\bin\Debug\мой тест.exe
+C:\Users\User\Desktop\наукова\мой тест\мой тест\bin\Debug\мой тест.pdb

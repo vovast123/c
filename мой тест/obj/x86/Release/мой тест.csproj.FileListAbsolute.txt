@@ -1,0 +1,12 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\bin\Release\мой тест.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\bin\Release\мой тест.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form2.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form3.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form4.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form5.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Form6.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой_тест.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой тест.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой тест.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\мой тест\мой тест\obj\x86\Release\мой тест.pdb
